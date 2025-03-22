@@ -23,7 +23,13 @@ java FlappyBird
 🏆 Survive as long as possible to set a high score!
 
 🖥️ Screenshots
+
+
+
 ![image](https://github.com/user-attachments/assets/8cbedc9b-b38d-4e95-825c-a40342c941fe)
+
+
+
 
 📢 Contributing
 Want to improve the game? Feel free to fork the repo and submit a PR!
