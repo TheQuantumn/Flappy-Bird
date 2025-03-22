@@ -7,6 +7,7 @@
 
 ### **1️⃣ Download the Game**  
 Clone this repository using:  
+
 git clone https://github.com/yourusername/FlappyBird-Java.git
 
 cd FlappyBird-Java
@@ -15,11 +16,15 @@ cd FlappyBird-Java
 Ensure you have JDK 17+ installed, then compile and run:
 
 javac FlappyBird.java  
+
 java FlappyBird
 
 🎮 How to Play
+
 🆙 Press SPACEBAR to make the bird jump.
+
 🚧 Avoid the pipes to keep flying.
+
 🏆 Survive as long as possible to set a high score!
 
 🖥️ Screenshots
