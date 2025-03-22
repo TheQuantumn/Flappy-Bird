@@ -12,14 +12,14 @@ git clone https://github.com/yourusername/FlappyBird-Java.git
 
 cd FlappyBird-Java
 
-###2️⃣ Compile & Run
+###**2️⃣ Compile & Run**
 Ensure you have JDK 17+ installed, then compile and run:
 
 javac FlappyBird.java  
 
 java FlappyBird
 
-###🎮 How to Play
+###**🎮 How to Play**
 
 🆙 Press SPACEBAR to make the bird jump.
 
@@ -27,7 +27,7 @@ java FlappyBird
 
 🏆 Survive as long as possible to set a high score!
 
-###🖥️ Screenshots
+###**🖥️ Screenshots**
 
 
 
@@ -36,13 +36,13 @@ java FlappyBird
 
 
 
-###📢 Contributing
+###**📢 Contributing**
 Want to improve the game? Feel free to fork the repo and submit a PR!
 
-###⭐ Show Support
+###**⭐ Show Support**
 If you like this project, give it a ⭐ and share it with fellow developers! 🚀
 
-###📧 Contact
+###**📧 Contact**
 For any queries or suggestions, reach out via LinkedIn
 
 
